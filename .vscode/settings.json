@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "filesystem": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "new": "cpp",
+        "regex": "cpp",
+        "ios": "cpp",
+        "fstream": "cpp"
+    }
+}
